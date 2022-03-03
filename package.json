@@ -1,0 +1,25 @@
+{
+  "name": "node.js-crash-course",
+  "version": "1.0.0",
+  "description": "Node.js Crash Course",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachyDev/Node.js-Crash-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachyDev/Node.js-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/ZachyDev/Node.js-Crash-Course#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
